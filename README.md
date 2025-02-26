@@ -14,7 +14,7 @@ A 3D Solar System simulation built using **Three.js**. This project includes all
 ## 📦 Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/solar-system-threejs.git
+   git clone https://github.com/05sanjaykumar/Solar-System-3-js
    ```
 2. Navigate into the project folder:
    ```sh

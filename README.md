@@ -52,6 +52,11 @@ A 3D Solar System simulation built using **Three.js**. This project includes all
 ## 📜 License
 This project is **open-source** under the MIT License.
 
+Project Images
+<img width="845" alt="Screenshot 2025-02-26 at 2 14 48 PM" src="https://github.com/user-attachments/assets/95b0a8c3-caad-4ef5-b2fd-3391e63cb6db" />
+
+
+
 ---
 
 🚀 **Enjoy exploring the Solar System!** 🪐✨
